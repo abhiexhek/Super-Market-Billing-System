@@ -43,3 +43,5 @@ class Bill
             return Quantity;
         }
 };
+void addItem (Bill b);
+void printBill();
