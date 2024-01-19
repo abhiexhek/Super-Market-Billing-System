@@ -2,14 +2,14 @@ This Is Basic Super Market Billing System Which Showcase My Learning Progress Of
 
 How Program Works-:
 
-<br>-> After Compiling Program You Can See These Option-:<br>
-  <br>  1.Add Item<br>
-   <br> 2.Print Bill<br>
-   <br> 3.Exit<br>
+<-> After Compiling Program You Can See These Option-:<br>
+    1.Add Item<br>
+    2.Print Bill<br>
+    3.Exit<br>
 
 -> You Can Choose The Option Among Them 
 
-->If You Choose Option 1 (Add Item) -:<br>
+->If You Choose Option 1 (Add Item) -:
    <br> You Can Add Item In .txt file With Item Name, Price And Quantity.
 
 ->If You Choose Option 2 (Print Bill) -:
